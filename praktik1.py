@@ -1,0 +1,14 @@
+nim=26241059
+nim_str=str(nim)
+digit_1=int(nim_str[0])
+digit_2=int(nim_str[1])
+digit_3=int(nim_str[2])
+digit_4=int(nim_str[3])
+digit_5=int(nim_str[4])
+
+print(f"nim={nim}")
+print(f"digit_1={digit_1}")
+print(f"digit_2={digit_2}")
+print(f"digit_3={digit_3}")
+print(f"digit_4={digit_4}")
+print(f"digit_5={digit_5}")
